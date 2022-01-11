@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_722259_sn_test_d_test_main2</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+        <sys_created_on>2022-01-11 05:52:54</sys_created_on>
+        <sys_id>9aa474202fc50110c0bd57892799b65e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_722259_sn_test_d_test_main2</sys_name>
+        <sys_package display_value="SN Test Data Application" source="x_722259_sn_test_d">c285035c2f010110c0bd57892799b6b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</sys_scope>
+        <sys_update_name>ua_table_licensing_config_9aa474202fc50110c0bd57892799b65e</sys_update_name>
+        <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+        <sys_updated_on>2022-01-11 05:52:54</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

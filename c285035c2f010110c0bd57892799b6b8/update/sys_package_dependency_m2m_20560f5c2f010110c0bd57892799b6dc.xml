@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">e56db0c76d2220100acb70b3534330b4</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+        <sys_created_on>2022-01-10 21:50:49</sys_created_on>
+        <sys_id>20560f5c2f010110c0bd57892799b6dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="SN Test Data Application" source="x_722259_sn_test_d">c285035c2f010110c0bd57892799b6b8</sys_package>
+        <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+        <sys_updated_on>2022-01-10 21:50:49</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2b3530602fc50110c0bd57892799b67f" sys_domain="global" table="x_722259_sn_test_d_test_main2" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>table</element>
+            <position>0</position>
+            <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+            <sys_created_on>2022-01-11 05:59:47</sys_created_on>
+            <sys_id>d73630a02fc50110c0bd57892799b6a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_722259_sn_test_d_test_main2" sys_domain="global" view="Default view">2b3530602fc50110c0bd57892799b67f</sys_ui_section>
+            <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+            <sys_updated_on>2022-01-11 05:59:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number_of_records</element>
+            <position>1</position>
+            <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+            <sys_created_on>2022-01-11 05:59:47</sys_created_on>
+            <sys_id>5b3630a02fc50110c0bd57892799b6a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_722259_sn_test_d_test_main2" sys_domain="global" view="Default view">2b3530602fc50110c0bd57892799b67f</sys_ui_section>
+            <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+            <sys_updated_on>2022-01-11 05:59:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>script</element>
+            <position>2</position>
+            <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+            <sys_created_on>2022-01-11 05:59:47</sys_created_on>
+            <sys_id>db3630a02fc50110c0bd57892799b6a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_722259_sn_test_d_test_main2" sys_domain="global" view="Default view">2b3530602fc50110c0bd57892799b67f</sys_ui_section>
+            <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+            <sys_updated_on>2022-01-11 05:59:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_722259_sn_test_d_test_main2</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+            <sys_created_on>2022-01-11 05:55:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b3530602fc50110c0bd57892799b67f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_722259_sn_test_d_test_main2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SN Test Data Application" source="x_722259_sn_test_d">c285035c2f010110c0bd57892799b6b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</sys_scope>
+            <sys_update_name>sys_ui_section_2b3530602fc50110c0bd57892799b67f</sys_update_name>
+            <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+            <sys_updated_on>2022-01-11 05:55:26</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

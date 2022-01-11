@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="INSERT_OR_UPDATE">
+        <operation>create</operation>
+        <rca_type>requested</rca_type>
+        <source/>
+        <source_scope display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</source_scope>
+        <source_table/>
+        <source_type>5</source_type>
+        <status>1</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+        <sys_created_on>2022-01-11 07:08:33</sys_created_on>
+        <sys_id>72a545a02f090110c0bd57892799b647</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c285035c2f010110c0bd57892799b6b8</sys_name>
+        <sys_package display_value="SN Test Data Application" source="x_722259_sn_test_d">c285035c2f010110c0bd57892799b6b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_72a545a02f090110c0bd57892799b647</sys_update_name>
+        <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+        <sys_updated_on>2022-01-11 07:08:33</sys_updated_on>
+        <target name="change_request" target_table="sys_db_object">23e0098b6d2620100acb70b353433046</target>
+        <target_scope display_value="Global">global</target_scope>
+        <target_table>sys_db_object</target_table>
+        <target_type>1</target_type>
+    </sys_restricted_caller_access>
+</record_update>

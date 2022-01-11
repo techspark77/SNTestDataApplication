@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_design_access">
+    <sys_scope_design_access action="DELETE">
+        <source_scope display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</source_scope>
+        <sys_class_name>sys_scope_design_access</sys_class_name>
+        <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+        <sys_created_on>2022-01-11 06:56:19</sys_created_on>
+        <sys_id>1323c9ec2fc50110c0bd57892799b659</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a39309476da620100acb70b35343307a</sys_name>
+        <sys_package display_value="SN Test Data Application" source="x_722259_sn_test_d">c285035c2f010110c0bd57892799b6b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</sys_scope>
+        <sys_update_name>sys_scope_design_access_1323c9ec2fc50110c0bd57892799b659</sys_update_name>
+        <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+        <sys_updated_on>2022-01-11 06:56:19</sys_updated_on>
+        <target_package display_value="Change Management - Core" source="com.snc.change_management">a39309476da620100acb70b35343307a</target_package>
+    </sys_scope_design_access>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</application>
+        <file_path/>
+        <instance_id>432a6773dbe77b000b9d21c4059619cf</instance_id>
+        <instance_name>dev92925</instance_name>
+        <name>sys_scope_design_access_1323c9ec2fc50110c0bd57892799b659</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_design_access"><sys_scope_design_access action="INSERT_OR_UPDATE"><source_scope display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</source_scope><sys_class_name>sys_scope_design_access</sys_class_name><sys_created_by>niamul.arifin@cdw.com</sys_created_by><sys_created_on>2022-01-11 06:56:19</sys_created_on><sys_id>1323c9ec2fc50110c0bd57892799b659</sys_id><sys_mod_count>0</sys_mod_count><sys_name>a39309476da620100acb70b35343307a</sys_name><sys_package display_value="SN Test Data Application" source="x_722259_sn_test_d">c285035c2f010110c0bd57892799b6b8</sys_package><sys_policy/><sys_scope display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</sys_scope><sys_update_name>sys_scope_design_access_1323c9ec2fc50110c0bd57892799b659</sys_update_name><sys_updated_by>niamul.arifin@cdw.com</sys_updated_by><sys_updated_on>2022-01-11 06:56:19</sys_updated_on><target_package display_value="Change Management - Core" source="com.snc.change_management">a39309476da620100acb70b35343307a</target_package></sys_scope_design_access></record_update>]]></payload>
+        <payload_hash>2087677591</payload_hash>
+        <record_name>a39309476da620100acb70b35343307a</record_name>
+        <reverted_from/>
+        <source>5e85035c2f010110c0bd57892799b6ba</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+        <sys_created_on>2022-01-11 06:56:19</sys_created_on>
+        <sys_id>db23c9ec2fc50110c0bd57892799b65a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e47ec5ce90000001</sys_recorded_at>
+        <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+        <sys_updated_on>2022-01-11 06:56:19</sys_updated_on>
+        <type>Design Access</type>
+        <update_guid>1723c9ec14c5011001442bcb7351175a</update_guid>
+        <update_guid_history>1723c9ec14c5011001442bcb7351175a:2087677591</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+        <sys_created_on>2022-01-11 07:08:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_scope_design_access">sys_scope_design_access</sys_db_object>
+        <sys_id>2e91f975cb3d44108ed8efb48b1b0100</sys_id>
+        <sys_metadata>1323c9ec2fc50110c0bd57892799b659</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a39309476da620100acb70b35343307a</sys_name>
+        <sys_package display_value="SN Test Data Application" source="x_722259_sn_test_d">c285035c2f010110c0bd57892799b6b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</sys_scope>
+        <sys_scope_delete display_value="">3b5696b6e020483cb5bee0d728d55fd1</sys_scope_delete>
+        <sys_update_name>sys_scope_design_access_1323c9ec2fc50110c0bd57892799b659</sys_update_name>
+        <sys_update_version display_value="sys_scope_design_access_1323c9ec2fc50110c0bd57892799b659">db23c9ec2fc50110c0bd57892799b65a</sys_update_version>
+        <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+        <sys_updated_on>2022-01-11 07:08:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

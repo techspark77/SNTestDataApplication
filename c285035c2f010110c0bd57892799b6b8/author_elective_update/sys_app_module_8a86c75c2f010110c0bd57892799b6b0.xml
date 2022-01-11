@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="SN Test Data Application">4a86c75c2f010110c0bd57892799b6ac</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>TEST Main</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+        <sys_created_on>2022-01-10 21:51:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8a86c75c2f010110c0bd57892799b6b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEST Main</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SN Test Data Application" source="x_722259_sn_test_d">c285035c2f010110c0bd57892799b6b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</sys_scope>
+        <sys_update_name>sys_app_module_8a86c75c2f010110c0bd57892799b6b0</sys_update_name>
+        <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+        <sys_updated_on>2022-01-10 21:51:44</sys_updated_on>
+        <timeline_page/>
+        <title>TEST Main</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</application>
+        <file_path/>
+        <instance_id>432a6773dbe77b000b9d21c4059619cf</instance_id>
+        <instance_name>dev92925</instance_name>
+        <name>sys_app_module_8a86c75c2f010110c0bd57892799b6b0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="SN Test Data Application">4a86c75c2f010110c0bd57892799b6ac</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>TEST Main</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>1</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>niamul.arifin@cdw.com</sys_created_by><sys_created_on>2022-01-10 21:51:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8a86c75c2f010110c0bd57892799b6b0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TEST Main</sys_name><sys_overrides/><sys_package display_value="SN Test Data Application" source="x_722259_sn_test_d">c285035c2f010110c0bd57892799b6b8</sys_package><sys_policy/><sys_scope display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</sys_scope><sys_update_name>sys_app_module_8a86c75c2f010110c0bd57892799b6b0</sys_update_name><sys_updated_by>niamul.arifin@cdw.com</sys_updated_by><sys_updated_on>2022-01-10 21:51:44</sys_updated_on><timeline_page/><title>TEST Main</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1851167817</payload_hash>
+        <record_name>TEST Main</record_name>
+        <reverted_from/>
+        <source>5e85035c2f010110c0bd57892799b6ba</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+        <sys_created_on>2022-01-10 21:51:45</sys_created_on>
+        <sys_id>0a86c75c2f010110c0bd57892799b6b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e45f9c9bc0000001</sys_recorded_at>
+        <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+        <sys_updated_on>2022-01-10 21:51:45</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4286c75cac010110108d620c469850b3</update_guid>
+        <update_guid_history>4286c75cac010110108d620c469850b3:1851167817</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="TEST Main">04bbbce42fc50110c0bd57892799b6d7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+        <sys_created_on>2022-01-11 06:23:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>5e1956b3f73d417aadf4f073d3eb0ee4</sys_id>
+        <sys_metadata>8a86c75c2f010110c0bd57892799b6b0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEST Main</sys_name>
+        <sys_package display_value="SN Test Data Application" source="x_722259_sn_test_d">c285035c2f010110c0bd57892799b6b8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</sys_scope>
+        <sys_scope_delete display_value="">3b5696b6e020483cb5bee0d728d55fd1</sys_scope_delete>
+        <sys_update_name>sys_app_module_8a86c75c2f010110c0bd57892799b6b0</sys_update_name>
+        <sys_update_version display_value="sys_app_module_8a86c75c2f010110c0bd57892799b6b0">0a86c75c2f010110c0bd57892799b6b3</sys_update_version>
+        <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+        <sys_updated_on>2022-01-11 06:23:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

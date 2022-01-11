@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+        <sys_created_on>2022-01-11 05:52:53</sys_created_on>
+        <sys_id>46a474202fc50110c0bd57892799b616</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_722259_sn_test_d_test_main2.x_722259_sn_test_d.test_main2_user</sys_name>
+        <sys_package display_value="SN Test Data Application" source="x_722259_sn_test_d">c285035c2f010110c0bd57892799b6b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</sys_scope>
+        <sys_security_acl display_value="x_722259_sn_test_d_test_main2">42a474202fc50110c0bd57892799b612</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_46a474202fc50110c0bd57892799b616</sys_update_name>
+        <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+        <sys_updated_on>2022-01-11 05:52:53</sys_updated_on>
+        <sys_user_role display_value="x_722259_sn_test_d.test_main2_user" name="x_722259_sn_test_d.test_main2_user">f1a4bcec2f850110c0bd57892799b6f5</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

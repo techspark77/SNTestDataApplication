@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_722259_sn_test_d.test_main2_user" name="x_722259_sn_test_d.test_main2_user">f1a4bcec2f850110c0bd57892799b6f5</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+        <sys_created_on>2022-01-11 05:52:52</sys_created_on>
+        <sys_id>f9a4bcec2f850110c0bd57892799b6fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f1a4bcec2f850110c0bd57892799b6f5</sys_name>
+        <sys_package display_value="SN Test Data Application" source="x_722259_sn_test_d">c285035c2f010110c0bd57892799b6b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f9a4bcec2f850110c0bd57892799b6fa</sys_update_name>
+        <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+        <sys_updated_on>2022-01-11 05:52:52</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>x_722259_sn_test_d.admin,x_722259_sn_test_d.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+        <sys_created_on>2022-01-10 21:51:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4a86c75c2f010110c0bd57892799b6ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SN Test Data Application</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SN Test Data Application" source="x_722259_sn_test_d">c285035c2f010110c0bd57892799b6b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</sys_scope>
+        <sys_update_name>sys_app_application_4a86c75c2f010110c0bd57892799b6ac</sys_update_name>
+        <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+        <sys_updated_on>2022-01-10 21:51:44</sys_updated_on>
+        <title>SN Test Data Application</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
