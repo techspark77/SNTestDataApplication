@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Test main2" max_length="40" name="x_722259_sn_test_d_test_main2" sizeclass="10" type="collection">
+        <element label="Custom Description" max_length="1000" name="custom_description" type="string"/>
         <element label="Number of Records" max_length="40" name="number_of_records" type="integer"/>
         <element label="Table" max_length="80" name="table" type="table_name"/>
     </element>

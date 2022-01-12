@@ -4,41 +4,41 @@
             <element>table</element>
             <position>0</position>
             <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
-            <sys_created_on>2022-01-11 05:59:47</sys_created_on>
-            <sys_id>d73630a02fc50110c0bd57892799b6a0</sys_id>
+            <sys_created_on>2022-01-12 00:30:56</sys_created_on>
+            <sys_id>3384bcf82f454110c0bd57892799b6d3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_722259_sn_test_d_test_main2" sys_domain="global" view="Default view">2b3530602fc50110c0bd57892799b67f</sys_ui_section>
             <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
-            <sys_updated_on>2022-01-11 05:59:47</sys_updated_on>
+            <sys_updated_on>2022-01-12 00:30:56</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
+            <sys_created_on>2022-01-12 00:30:56</sys_created_on>
+            <sys_id>b384bcf82f454110c0bd57892799b6d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_722259_sn_test_d_test_main2" sys_domain="global" view="Default view">2b3530602fc50110c0bd57892799b67f</sys_ui_section>
+            <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
+            <sys_updated_on>2022-01-12 00:30:56</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number_of_records</element>
-            <position>1</position>
-            <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
-            <sys_created_on>2022-01-11 05:59:47</sys_created_on>
-            <sys_id>5b3630a02fc50110c0bd57892799b6a0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_722259_sn_test_d_test_main2" sys_domain="global" view="Default view">2b3530602fc50110c0bd57892799b67f</sys_ui_section>
-            <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
-            <sys_updated_on>2022-01-11 05:59:47</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>script</element>
             <position>2</position>
             <sys_created_by>niamul.arifin@cdw.com</sys_created_by>
-            <sys_created_on>2022-01-11 05:59:47</sys_created_on>
-            <sys_id>db3630a02fc50110c0bd57892799b6a0</sys_id>
+            <sys_created_on>2022-01-12 00:30:56</sys_created_on>
+            <sys_id>3784bcf82f454110c0bd57892799b6d3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_722259_sn_test_d_test_main2" sys_domain="global" view="Default view">2b3530602fc50110c0bd57892799b67f</sys_ui_section>
             <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
-            <sys_updated_on>2022-01-11 05:59:47</sys_updated_on>
+            <sys_updated_on>2022-01-12 00:30:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

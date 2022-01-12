@@ -30,9 +30,7 @@
         <onclick/>
         <order>100</order>
         <script><![CDATA[action.setRedirectURL(current);
-
-var demoUtils = new InsertRecords().createDemoRecords(current.table, current.number_of_records); 
-
+var demoUtils = new InsertRecords().createDemoRecords(current.table, current.number_of_records, current.custom_description); 
 if (demoUtils < 0) 
 	current.setAbortAction(true);
 else 
@@ -54,7 +52,7 @@ function doInsertAndStay() {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b6c7b8e02fc50110c0bd57892799b613</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name>Create Demo Record</sys_name>
         <sys_overrides/>
         <sys_package display_value="SN Test Data Application" source="x_722259_sn_test_d">c285035c2f010110c0bd57892799b6b8</sys_package>
@@ -62,7 +60,7 @@ function doInsertAndStay() {
         <sys_scope display_value="SN Test Data Application">c285035c2f010110c0bd57892799b6b8</sys_scope>
         <sys_update_name>sys_ui_action_b6c7b8e02fc50110c0bd57892799b613</sys_update_name>
         <sys_updated_by>niamul.arifin@cdw.com</sys_updated_by>
-        <sys_updated_on>2022-01-11 07:00:44</sys_updated_on>
+        <sys_updated_on>2022-01-12 00:29:30</sys_updated_on>
         <table>x_722259_sn_test_d_test_main2</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
